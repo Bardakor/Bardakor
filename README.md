@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bardakor
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning 3D modeling
-- 💞️ I’m looking to collaborate on Unity
+- 👀 I’m interested in all types of sports where data can be used to any extent
+- 🌱 I’m currently learning about data management and data structures
+- 💞️ I’m looking to collaborate on sports betting simulation
 - 📫 How to reach me @liam.abou (insta)
 
 <!---
