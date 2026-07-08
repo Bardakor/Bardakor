@@ -1,7 +1,18 @@
-👋 I’m **Bardakor**, graduated in Data Engineering in France.
+<h1 align="center">
+  Hey, I’m Bardakor 👋
+</h1>
 
-⚽ Passionate about football analytics, software-dev & data visualization, aspiring football scout.
-> “Data is the compass that guides the ships of innovation.”
+<p align="center">
+  Data Engineering graduate from France · Football analytics enthusiast · Software-dev & data visualization
+</p>
+
+<p align="center">
+  Aspiring football scout, building at the intersection of data, code and the beautiful game.
+</p>
+
+<p align="center">
+  <em>“Data is the compass that guides the ships of innovation.”</em>
+</p>
 
 <h1>
   currently listening :headphones:
