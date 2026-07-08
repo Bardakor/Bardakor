@@ -14,7 +14,7 @@
   <em>“Data is the compass that guides the ships of innovation.”</em>
 </p>
 
-<h1>
+<h1 align="center">
   currently listening :headphones:
 </h1>
 
