@@ -16,7 +16,3 @@
 <p align="center">
   <img src="https://bardakor.vercel.app/api/top-played">
 </p>
-
-<p align="center">
-  <i>music from Bardakor's Spotify</i>
-</p>
