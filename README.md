@@ -10,10 +10,6 @@
   Aspiring football scout, building at the intersection of data, code and the beautiful game.
 </p>
 
-<p align="center">
-  <em>“Data is the compass that guides the ships of innovation.”</em>
-</p>
-
 <h1 align="center">
   currently listening :headphones:
 </h1>
