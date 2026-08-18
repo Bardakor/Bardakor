@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Aspiring football scout, building at the intersection of data, code and the beautiful game.
+  Open-source contributor building across data, AI infrastructure and software systems.
 </p>
 
 <h1 align="center">
